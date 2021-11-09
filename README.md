@@ -1,6 +1,6 @@
 # Detection-faux-billets
 
-
+images/ONCFM-logo.png
 
 ## Contexte du projet
 
